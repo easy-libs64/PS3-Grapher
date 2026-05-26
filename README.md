@@ -14,7 +14,7 @@ A real-time graph plotting utility for **PlayStation 3** using **tiny3d** and th
 
 | Aspect | Description |
 |--------|-------------|
-| Platform | PlayStation 3 (PPU/SPU) |
+| Platform | PlayStation 3 (PPU) |
 | SDK | PSL1GHT + tiny3d |
 | Language | C |
 | Rendering | Polygon quads & lines via tiny3d_VertexPos/Color |
